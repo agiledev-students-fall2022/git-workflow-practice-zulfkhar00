@@ -9,3 +9,4 @@ I find [this](https://www.axios.com/2022/09/12/meta-pytorch-linux-foundation) ar
 
 * Why it matters: The move will give the code more independence from Meta and also give a broader voice to other big partners, including Google and Amazon 👻
 
+* Although Pytorch has moved to governance by Linux, most of the other big open source projects at Meta (e.g. React) are continuing to be maintained in house.
